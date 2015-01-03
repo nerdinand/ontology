@@ -1,9 +1,9 @@
 Ontology
 ========
 
-[![Build Status](https://travis-ci.org/nerdinand/ontology.svg?branch=master)](https://travis-ci.org/nerdinand/ontology)
-
 C++ entity component framework with listener dispatch system.
+
+[![Build Status](https://travis-ci.org/nerdinand/ontology.svg?branch=master)](https://travis-ci.org/nerdinand/ontology)
 
 Compiling/Installing
 ====================
